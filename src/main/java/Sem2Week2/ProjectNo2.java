@@ -25,6 +25,7 @@ public class ProjectNo2 {
         System.out.println();
          
         }
+    System.out.println("Moh.Faizal Ilham Falakh");
 }
     
   
