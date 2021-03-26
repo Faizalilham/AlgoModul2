@@ -18,6 +18,7 @@ public class ProjectNo1 {
               }
               System.out.println();
           }
+          System.out.println("Moh.Faizal Ilham Falakh");
     }
         
 }
