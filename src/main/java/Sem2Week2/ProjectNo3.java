@@ -24,16 +24,13 @@ public class ProjectNo3 {
            for(int j=0; j<kolom_b; j++){
                for(int k=0; k<kolom_a; k++){
                    Hasil [i][j] = Hasil[i][j] + (A[i][k] * B[k][j]) ;
-                   
                }
+               System.out.print(Hasil[i][j]+" ");
            }
+            System.out.println();
             
         }
-        for(int[] x : Hasil){
-            for(int X : x){
-                System.out.print(X+" ");
-            }
-            System.out.println();
-        }
+        System.out.println("Moh.Faizal Ilham Falakh");
+       
     }
 }
